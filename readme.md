@@ -18,7 +18,7 @@ docs：项目说明
 
 2、定义管道（Pipe）
 
-![定义管道](https://raw.githubusercontent.com/sdz7121211/KafkaLOGProcess/master/docs/img_folder/1.jpg)
+![定义管道](https://raw.githubusercontent.com/sdz7121211/KafkaLOGProcess/master/docs/img_folder/2.jpg)
 
 3、定义管道连接（PipeLine）
 
