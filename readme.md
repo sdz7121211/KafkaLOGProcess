@@ -13,7 +13,7 @@ Service：提供外部功能调用
 docs：项目说明
 
 
-![Image text](KafkaLOGProcess/docs/img_folder/1.jpg)
+![概览](https://raw.githubusercontent.com/sdz7121211/KafkaLOGProcess/master/docs/img_folder/1.jpg)
 
 
 
