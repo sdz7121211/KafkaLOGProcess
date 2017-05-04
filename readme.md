@@ -13,7 +13,7 @@ Service：提供外部功能调用
 docs：项目说明
 
 
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](KafkaLOGProcess/docs/img_folder/1.jpg)
 
 
 
